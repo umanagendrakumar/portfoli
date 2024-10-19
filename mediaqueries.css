@@ -67,6 +67,7 @@
   .contact-info-upper-container,
   .btn-container {
     flex-wrap: wrap;
+    gap: 1rem;
   }
   .contact-info-container {
     margin: 0;
@@ -90,12 +91,13 @@
     width: auto;
     height: 46vw;
     justify-content: center;
+    margin-top: 2rem;
   }
   .section__text__p2 {
     font-size: 1.25rem;
   }
   .title {
-    font-size: 2rem;
+    font-size: 1.5rem;
   }
   .text-container {
     text-align: justify;
